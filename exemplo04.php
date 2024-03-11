@@ -6,5 +6,5 @@
 
 	echo "a soma de $valor1 mais $valor2 é $soma <br />";
 	echo 'A soma de ' . $valor1 . ' mais ' . $valor2 . ' é ' . $soma .  '<br />';
-
+	echo 'A soma de $valor1 mais $valor2 é $soma <br />';
  ?>
